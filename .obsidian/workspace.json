@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Smester II/6. MKP1 SMDB/SMDB.md",
+                "file": "1. Smester I/Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9979319c2f5f3d23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11-26 EMA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 241.5
   },
   "right": {
     "id": "adc0635e157e6dbd",
@@ -85,14 +98,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Smester II/6. MKP1 SMDB/SMDB.md",
+                "file": "2022-11-26 EMA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Smester II/6. MKP1 SMDB/SMDB.md",
+                "file": "2022-11-26 EMA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,28 +138,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Smester II/6. MKP1 SMDB/SMDB.md"
+                "file": "2022-11-26 EMA.md"
               }
             }
+          },
+          {
+            "id": "a3e42cc4677a9382",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 295.5
   },
-  "active": "dc801a98408203eb",
+  "active": "9979319c2f5f3d23",
   "lastOpenFiles": [
+    "2022-11-26 EMA.md",
+    "2. Smester II/1. EMA/1. EMA.md",
+    "1. Smester I/Note.md",
+    "4. Tugas/4.md",
+    "2. Smester II/6. MKP1 SMDB/6. MKP1 SMDB/SMDB.md",
     "2. Smester II/2.md",
     "README.md",
     "Tesis/10.md",
     "Sota/9.md",
-    "Literatur Review/8.md",
-    "Farming/7.md",
-    "Drone/6.md",
-    "Big Data/5.md",
-    "4. Tugas/4.md",
-    "3. Smester III/3.md"
+    "Literatur Review/8.md"
   ]
 }
