@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminologi/Cartel.md",
+                "file": "2. Smester II/1. EMA/EKONOMI MANAJERIAL.md",
                 "mode": "preview",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminologi/Cartel.md",
+                "file": "2. Smester II/1. EMA/EKONOMI MANAJERIAL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminologi/Cartel.md",
+                "file": "2. Smester II/1. EMA/EKONOMI MANAJERIAL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminologi/Cartel.md"
+                "file": "2. Smester II/1. EMA/EKONOMI MANAJERIAL.md"
               }
             }
           },
@@ -148,16 +148,25 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "65107331d19c9853",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 336.5
   },
-  "active": "7a97910f573ddc8b",
+  "active": "65107331d19c9853",
   "lastOpenFiles": [
+    "Terminologi/Cartel.md",
     "Terminologi/Barang Substitusi.md",
     "Terminologi/Barang Inelastis.md",
     "Terminologi/Barang Elastis.md",
@@ -166,7 +175,6 @@
     "Literatur/Big Data/5.md",
     "Literatur/Big Data/2022-11-26 1.md",
     "Literatur/Big Data/2022-11-26.md",
-    "Literatur/8.md",
-    "Literatur/2022-11-26.md"
+    "Literatur/8.md"
   ]
 }
