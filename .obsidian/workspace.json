@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6ca5124b6537c91e",
+        "id": "3b4b47c7737e8bb8",
         "type": "tabs",
         "children": [
           {
-            "id": "9f82a7864871cb49",
+            "id": "7a97910f573ddc8b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Smester II/1. EMA/1. EMA.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Smester II/1. EMA/1. EMA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Smester II/1. EMA/1. EMA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Smester II/1. EMA/1. EMA.md"
-              }
+              "state": {}
             }
           },
           {
@@ -144,8 +136,9 @@
     "direction": "horizontal",
     "width": 295.5
   },
-  "active": "dc801a98408203eb",
+  "active": "7a97910f573ddc8b",
   "lastOpenFiles": [
+    "2. Smester II/1. EMA/1. EMA.md",
     "2. Smester II/1. EMA/Lecture/2022-11-27.md",
     "2. Smester II/2. KSBM/Lecture/2022-11-27.md",
     "2. Smester II/3. MRB/Lecture/2022-11-27.md",
@@ -154,7 +147,6 @@
     "2. Smester II/5. MKP 2 SCPK/2022-11-26.md",
     "2. Smester II/6. MKP1 SMDB/Lecture/2022-11-26.md",
     "2. Smester II/6. MKP1 SMDB/SMDB.md",
-    "2. Smester II/4. DTIK/2022-11-27.md",
-    "2. Smester II/3. MRB/2022-11-27.md"
+    "2. Smester II/4. DTIK/2022-11-27.md"
   ]
 }
