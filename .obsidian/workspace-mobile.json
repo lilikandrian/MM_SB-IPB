@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Plugin.md",
+                "file": "2. Smester II/1. EMA/2022-11-26 EMA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian/Plugin.md",
+            "file": "2. Smester II/1. EMA/2022-11-26 EMA.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Obsidian/Plugin.md",
+            "file": "2. Smester II/1. EMA/2022-11-26 EMA.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,15 +114,16 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Obsidian/Plugin.md"
+            "file": "2. Smester II/1. EMA/2022-11-26 EMA.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "a6a8b374894176c1",
+  "active": "b9d39c9e4d475d81",
   "lastOpenFiles": [
+    "Obsidian/Plugin.md",
     "1. Smester I/Note.md",
     "Attachment/SMDB KP1 SBI53B.pdf",
     "Big Data/Note.md"
