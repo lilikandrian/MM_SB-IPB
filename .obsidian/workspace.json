@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Smester II/1. EMA/EKONOMI MANAJERIAL.md",
+                "file": "2. Smester II/1. EMA/2022-08-15.md",
                 "mode": "preview",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Smester II/1. EMA/EKONOMI MANAJERIAL.md",
+                "file": "2. Smester II/1. EMA/2022-08-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Smester II/1. EMA/EKONOMI MANAJERIAL.md",
+                "file": "2. Smester II/1. EMA/2022-08-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Smester II/1. EMA/EKONOMI MANAJERIAL.md"
+                "file": "2. Smester II/1. EMA/2022-08-15.md"
               }
             }
           },
@@ -158,23 +158,23 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 336.5
   },
-  "active": "65107331d19c9853",
+  "active": "7a97910f573ddc8b",
   "lastOpenFiles": [
+    "2. Smester II/1. EMA/EKONOMI MANAJERIAL.md",
+    "2. Smester II/1. EMA/2022-08-15 EMA.md",
+    "2. Smester II/1. EMA/2022-08-15.md",
     "Terminologi/Cartel.md",
     "Terminologi/Barang Substitusi.md",
     "Terminologi/Barang Inelastis.md",
     "Terminologi/Barang Elastis.md",
     "Terminologi/2022-11-26.md",
     "notes/Notable.md",
-    "Literatur/Big Data/5.md",
-    "Literatur/Big Data/2022-11-26 1.md",
-    "Literatur/Big Data/2022-11-26.md",
-    "Literatur/8.md"
+    "Literatur/Big Data/5.md"
   ]
 }
