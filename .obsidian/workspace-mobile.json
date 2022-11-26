@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "35f5d30d50826d73",
+    "type": "split",
+    "children": [
+      {
+        "id": "18fac82633d7d5ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2317870c327f67c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Big Data/Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "552ba1024dc8890b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b9d39c9e4d475d81",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "07e8505bb48264af",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1838cf0176140f46",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e113d1f3f74be4d6",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "981520c9886264b8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "55c828fdd21dc64a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Big Data/Note.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2c1d63b3c28f4e5e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Big Data/Note.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "57c9e86238f5488e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Big Data/Note.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "b9d39c9e4d475d81",
+  "lastOpenFiles": []
+}
