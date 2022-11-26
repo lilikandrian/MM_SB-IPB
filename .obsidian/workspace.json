@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5f59168f6ecb27be",
+        "id": "6ca5124b6537c91e",
         "type": "tabs",
         "children": [
           {
-            "id": "719c04bd088abb4d",
+            "id": "9f82a7864871cb49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Smester I/Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9979319c2f5f3d23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-11-26 EMA.md",
+                "file": "2. Smester II/Readme.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11-26 EMA.md",
+                "file": "2. Smester II/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-11-26 EMA.md",
+                "file": "2. Smester II/Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11-26 EMA.md"
+                "file": "2. Smester II/Readme.md"
               }
             }
           },
@@ -157,17 +144,17 @@
     "direction": "horizontal",
     "width": 295.5
   },
-  "active": "9979319c2f5f3d23",
+  "active": "9f82a7864871cb49",
   "lastOpenFiles": [
-    "2022-11-26 EMA.md",
-    "2. Smester II/1. EMA/1. EMA.md",
-    "1. Smester I/Note.md",
-    "4. Tugas/4.md",
-    "2. Smester II/6. MKP1 SMDB/6. MKP1 SMDB/SMDB.md",
-    "2. Smester II/2.md",
-    "README.md",
-    "Tesis/10.md",
-    "Sota/9.md",
-    "Literatur Review/8.md"
+    "Tesis/2022-11-26.md",
+    "Sota/2022-11-26.md",
+    "SETUP/Attachment/2022-11-26.md",
+    "SETUP/2022-11-26.md",
+    "Obsidian/2022-11-26 1.md",
+    "Obsidian/2022-11-26.md",
+    "Literatur Review/2022-11-26.md",
+    "Farming/2022-11-26.md",
+    "Drone/2022-11-26.md",
+    "Big Data/2022-11-26 1.md"
   ]
 }
