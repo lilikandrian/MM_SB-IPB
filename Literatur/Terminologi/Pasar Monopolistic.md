@@ -1,0 +1,2 @@
+## Pasar Monopolistic
+(kebalikan dari pasar persaingan sempurna) monopolistis pada dasarnya adalah pasar yang berada diantara dua jenis pasar yang ekstrem, yaitu persaingan sempurna dan monopoli. Oleh sebab itu sifat-sifatnya mengandung unsure-unsur sifat monopoli, dan unsure-unsur sifat pasar persaingan sempurna

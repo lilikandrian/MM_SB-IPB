@@ -1,3 +1,4 @@
 {
-  "attachmentFolderPath": "SETUP/Attachment"
+  "attachmentFolderPath": "SETUP/Attachment",
+  "alwaysUpdateLinks": true
 }
