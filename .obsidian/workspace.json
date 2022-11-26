@@ -8,127 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e59be966732dc5cb",
+            "id": "719c04bd088abb4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Smester I/Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b48ecc789bfd753a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Smester II/2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f85d6cd91412c71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Smester III/3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "061066bf459ff0f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Tugas/4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d80bf7314afe8c7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Big Data/5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5787882977e3028b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Drone/6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0c2bdf9188ab61c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Farming/7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9dc11916fe36589c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literatur Review/8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f0b4ef8104510ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sota/9.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b299fd3d193ba91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tesis/10.md",
+                "file": "2. Smester II/6. MKP1 SMDB/SMDB.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tesis/10.md",
+                "file": "2. Smester II/6. MKP1 SMDB/SMDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tesis/10.md",
+                "file": "2. Smester II/6. MKP1 SMDB/SMDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tesis/10.md"
+                "file": "2. Smester II/6. MKP1 SMDB/SMDB.md"
               }
             }
           }
@@ -245,16 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7b299fd3d193ba91",
+  "active": "dc801a98408203eb",
   "lastOpenFiles": [
+    "2. Smester II/2.md",
+    "README.md",
+    "Tesis/10.md",
     "Sota/9.md",
     "Literatur Review/8.md",
     "Farming/7.md",
     "Drone/6.md",
     "Big Data/5.md",
     "4. Tugas/4.md",
-    "3. Smester III/3.md",
-    "2. Smester II/2.md",
-    "1. Smester I/Note.md"
+    "3. Smester III/3.md"
   ]
 }
