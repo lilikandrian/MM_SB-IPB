@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "18fac82633d7d5ef",
+        "id": "8907504432d92e77",
         "type": "tabs",
         "children": [
           {
-            "id": "2317870c327f67c0",
+            "id": "a6a8b374894176c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/Note.md",
+                "file": "Obsidian/Plugin.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Big Data/Note.md",
+            "file": "Obsidian/Plugin.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Big Data/Note.md",
+            "file": "Obsidian/Plugin.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,13 +114,17 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Big Data/Note.md"
+            "file": "Obsidian/Plugin.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "2317870c327f67c0",
-  "lastOpenFiles": []
+  "active": "a6a8b374894176c1",
+  "lastOpenFiles": [
+    "1. Smester I/Note.md",
+    "Attachment/SMDB KP1 SBI53B.pdf",
+    "Big Data/Note.md"
+  ]
 }
