@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Smester II/Readme.md",
+                "file": "2. Smester II/1. EMA/1. EMA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Smester II/Readme.md",
+                "file": "2. Smester II/1. EMA/1. EMA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Smester II/Readme.md",
+                "file": "2. Smester II/1. EMA/1. EMA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Smester II/Readme.md"
+                "file": "2. Smester II/1. EMA/1. EMA.md"
               }
             }
           },
@@ -144,17 +144,17 @@
     "direction": "horizontal",
     "width": 295.5
   },
-  "active": "9f82a7864871cb49",
+  "active": "dc801a98408203eb",
   "lastOpenFiles": [
-    "Tesis/2022-11-26.md",
-    "Sota/2022-11-26.md",
-    "SETUP/Attachment/2022-11-26.md",
-    "SETUP/2022-11-26.md",
-    "Obsidian/2022-11-26 1.md",
-    "Obsidian/2022-11-26.md",
-    "Literatur Review/2022-11-26.md",
-    "Farming/2022-11-26.md",
-    "Drone/2022-11-26.md",
-    "Big Data/2022-11-26 1.md"
+    "2. Smester II/1. EMA/Lecture/2022-11-27.md",
+    "2. Smester II/2. KSBM/Lecture/2022-11-27.md",
+    "2. Smester II/3. MRB/Lecture/2022-11-27.md",
+    "2. Smester II/4. DTIK/Lecture/2022-11-27.md",
+    "2. Smester II/5. MKP 2 SCPK/Lecture/2022-11-27.md",
+    "2. Smester II/5. MKP 2 SCPK/2022-11-26.md",
+    "2. Smester II/6. MKP1 SMDB/Lecture/2022-11-26.md",
+    "2. Smester II/6. MKP1 SMDB/SMDB.md",
+    "2. Smester II/4. DTIK/2022-11-27.md",
+    "2. Smester II/3. MRB/2022-11-27.md"
   ]
 }
