@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literatur/8.md",
+                "file": "Terminologi/Cartel.md",
                 "mode": "preview",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literatur/Terminologi/Kurva demand.md",
+                "file": "Terminologi/Kurva demand.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literatur/8.md",
+                "file": "Terminologi/Cartel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literatur/8.md",
+                "file": "Terminologi/Cartel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literatur/8.md"
+                "file": "Terminologi/Cartel.md"
               }
             }
           },
@@ -156,17 +156,17 @@
     "direction": "horizontal",
     "width": 263.5
   },
-  "active": "dc801a98408203eb",
+  "active": "7a97910f573ddc8b",
   "lastOpenFiles": [
-    "Literatur/2022-11-26.md",
+    "Terminologi/Barang Substitusi.md",
+    "Terminologi/Barang Inelastis.md",
+    "Terminologi/Barang Elastis.md",
+    "Terminologi/2022-11-26.md",
+    "notes/Notable.md",
+    "Literatur/Big Data/5.md",
+    "Literatur/Big Data/2022-11-26 1.md",
+    "Literatur/Big Data/2022-11-26.md",
     "Literatur/8.md",
-    "2. Smester II/1. EMA/EKONOMI MANAJERIAL.md",
-    "Literatur/Terminologi/Buget Lainnya.md",
-    "Literatur/Terminologi/Kurva demand.md",
-    "Literatur/Terminologi/Marginal rate subtitusi.md",
-    "Literatur/Terminologi/Barang Substitusi.md",
-    "Literatur/Terminologi/Terminologi.md",
-    "Literatur/Terminologi/Excess Profit.md",
-    "Literatur/Terminologi/Normal Profit.md"
+    "Literatur/2022-11-26.md"
   ]
 }
