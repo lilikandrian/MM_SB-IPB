@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Smester II/1. EMA/2022-11-26 EMA.md",
-                "mode": "source",
+                "file": "1. Smester I/Test.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Smester II/1. EMA/2022-11-26 EMA.md",
+            "file": "1. Smester I/Test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Smester II/1. EMA/2022-11-26 EMA.md",
+            "file": "1. Smester I/Test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,17 +114,37 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Smester II/1. EMA/2022-11-26 EMA.md"
+            "file": "1. Smester I/Test.md"
           }
+        }
+      },
+      {
+        "id": "acf37d0b08a641a6",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "4e78b8bb7a8b3162",
+        "type": "leaf",
+        "state": {
+          "type": "FANTASY_CALENDAR",
+          "state": {}
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "active": "b9d39c9e4d475d81",
   "lastOpenFiles": [
+    "2. Smester II/1. EMA/EKONOMI MANAJERIAL.md",
+    "Terminologi/Buget Lainnya.md",
+    "2. Smester II/1. EMA/Lecture/2022-11-27.md",
+    "2. Smester II/1. EMA/2022-11-26 EMA.md",
     "Obsidian/Plugin.md",
-    "1. Smester I/Note.md",
+    "1. Smester I/Test.md",
     "Attachment/SMDB KP1 SBI53B.pdf",
     "Big Data/Note.md"
   ]
