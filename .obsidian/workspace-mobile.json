@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Smester I/Test.md",
+                "file": "2. Smester II/1. EMA/EKONOMI MANAJERIAL.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1. Smester I/Test.md",
+            "file": "2. Smester II/1. EMA/EKONOMI MANAJERIAL.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1. Smester I/Test.md",
+            "file": "2. Smester II/1. EMA/EKONOMI MANAJERIAL.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1. Smester I/Test.md"
+            "file": "2. Smester II/1. EMA/EKONOMI MANAJERIAL.md"
           }
         }
       },
@@ -137,14 +137,14 @@
     ],
     "currentTab": 4
   },
-  "active": "b9d39c9e4d475d81",
+  "active": "a6a8b374894176c1",
   "lastOpenFiles": [
+    "1. Smester I/Test.md",
     "2. Smester II/1. EMA/EKONOMI MANAJERIAL.md",
     "Terminologi/Buget Lainnya.md",
     "2. Smester II/1. EMA/Lecture/2022-11-27.md",
     "2. Smester II/1. EMA/2022-11-26 EMA.md",
     "Obsidian/Plugin.md",
-    "1. Smester I/Test.md",
     "Attachment/SMDB KP1 SBI53B.pdf",
     "Big Data/Note.md"
   ]
