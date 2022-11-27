@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "SETUP/templates/",
+  "templates_folder": "SETUP/Templates/",
   "templates_pairs": [
     [
       "",
@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "terminologi",
-      "template": "SETUP/templates/terminologi.md"
+      "folder": "📕 Terminologi",
+      "template": "🛠️ SETUP/Templates/terminologi.md"
     }
   ],
   "syntax_highlighting": true,

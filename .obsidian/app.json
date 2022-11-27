@@ -1,4 +1,6 @@
 {
   "attachmentFolderPath": "SETUP/Attachment",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "terminologi"
 }
