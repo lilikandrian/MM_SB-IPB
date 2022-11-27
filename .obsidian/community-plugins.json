@@ -1,3 +1,11 @@
 [
-  "calendar"
+  "calendar",
+  "dataview",
+  "cm-editor-syntax-highlight-obsidian",
+  "fantasy-calendar",
+  "obsidian-kanban",
+  "obsidian-outliner",
+  "periodic-notes",
+  "readwise-official",
+  "templater-obsidian"
 ]

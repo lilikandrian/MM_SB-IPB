@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3b4b47c7737e8bb8",
+        "id": "79236679aaf8029f",
         "type": "tabs",
         "children": [
           {
-            "id": "7a97910f573ddc8b",
+            "id": "71aecf5fa0f10c18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Smester II/1. EMA/2022-08-15.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "210c6191f331ce12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terminologi/Kurva demand.md",
+                "file": "2. Smester II/1. EMA/EKONOMI MANAJERIAL.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Smester II/1. EMA/2022-08-15.md",
+                "file": "2. Smester II/1. EMA/EKONOMI MANAJERIAL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Smester II/1. EMA/2022-08-15.md",
+                "file": "2. Smester II/1. EMA/EKONOMI MANAJERIAL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Smester II/1. EMA/2022-08-15.md"
+                "file": "2. Smester II/1. EMA/EKONOMI MANAJERIAL.md"
               }
             }
           },
@@ -158,23 +146,23 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 272.5
   },
-  "active": "7a97910f573ddc8b",
+  "active": "71aecf5fa0f10c18",
   "lastOpenFiles": [
-    "2. Smester II/1. EMA/EKONOMI MANAJERIAL.md",
     "2. Smester II/1. EMA/2022-08-15 EMA.md",
-    "2. Smester II/1. EMA/2022-08-15.md",
-    "Terminologi/Cartel.md",
-    "Terminologi/Barang Substitusi.md",
-    "Terminologi/Barang Inelastis.md",
-    "Terminologi/Barang Elastis.md",
-    "Terminologi/2022-11-26.md",
-    "notes/Notable.md",
-    "Literatur/Big Data/5.md"
+    "2. Smester II/1. EMA/EKONOMI MANAJERIAL.md",
+    "SETUP/templates/terminologi.md",
+    "terminologi/111101010101.md",
+    "terminologi/121212312.md",
+    "terminlogi/111111.md",
+    "terminologi/31989189487193849189.md",
+    "terminologi/12121213221.md",
+    "terminologi/121212312312.md",
+    "terminologi/daskjkljalkdjlkas.md"
   ]
 }
