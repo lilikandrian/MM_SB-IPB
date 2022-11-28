@@ -40,13 +40,6 @@ Jika [[Barang Substitusi]] maka dia masuk kedalam jenis Elastis.
 ----
 ### EMA PERTEMUAN 1 dan 2
 
-<iframe 
-		border=0 
-		frameborder=0 
-		height=380 
-		width=450 
-		src="https://youtu.be/Yq85UoAfW6o">
-</iframe>
 
 
 
