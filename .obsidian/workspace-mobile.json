@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8907504432d92e77",
+        "id": "91190dd5bd159d7a",
         "type": "tabs",
         "children": [
           {
-            "id": "a6a8b374894176c1",
+            "id": "515549609887f163",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -131,13 +131,15 @@
   },
   "active": "b9d39c9e4d475d81",
   "lastOpenFiles": [
-    "1. Smester I/Test.md",
-    "2. Smester II/1. EMA/EKONOMI MANAJERIAL.md",
-    "Terminologi/Buget Lainnya.md",
-    "2. Smester II/1. EMA/Lecture/2022-11-27.md",
-    "2. Smester II/1. EMA/2022-11-26 EMA.md",
-    "Obsidian/Plugin.md",
-    "Attachment/SMDB KP1 SBI53B.pdf",
-    "Big Data/Note.md"
+    "📕 Terminologi/Big Data.md",
+    "📕 Terminologi/Barang Substitusi.md",
+    "📕 Terminologi/Barang Inelastis.md",
+    "📕 Terminologi/Barang Elastis.md",
+    "📕 Terminologi/Data warehouse.md",
+    "📕 Terminologi/Data Lake.md",
+    "🛠️ SETUP/Templates/terminologi.md",
+    "🛠️ SETUP/Templates/tes.md",
+    "Untitled 4.md",
+    "Untitled 3.md"
   ]
 }
