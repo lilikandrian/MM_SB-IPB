@@ -11,8 +11,13 @@
             "id": "515549609887f163",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "📕 Terminologi/Cournot.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "📕 Terminologi/Cournot.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "📕 Terminologi/Cournot.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +114,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "📕 Terminologi/Cournot.md"
+          }
         }
       },
       {
@@ -129,17 +138,17 @@
     ],
     "currentTab": 4
   },
-  "active": "b9d39c9e4d475d81",
+  "active": "515549609887f163",
   "lastOpenFiles": [
+    "📕 Terminologi/Oligopoly.md",
+    "📕 Terminologi/Cournot.md",
+    "📕 Terminologi/Monopolistic competition.md",
+    "📕 Terminologi/Imperfect Competition.md",
+    "📕 Terminologi/Ilmu Ekonomi adalah.md",
+    "📕 Terminologi/the challenge for firms in imperfect competition.md",
+    "📕 Terminologi/Competing in imperfectly competitive markets.md",
+    "📕 Terminologi/Transisi Ekonomi.md",
     "📕 Terminologi/Big Data.md",
-    "📕 Terminologi/Barang Substitusi.md",
-    "📕 Terminologi/Barang Inelastis.md",
-    "📕 Terminologi/Barang Elastis.md",
-    "📕 Terminologi/Data warehouse.md",
-    "📕 Terminologi/Data Lake.md",
-    "🛠️ SETUP/Templates/terminologi.md",
-    "🛠️ SETUP/Templates/tes.md",
-    "Untitled 4.md",
-    "Untitled 3.md"
+    "📕 Terminologi/Barang Substitusi.md"
   ]
 }
