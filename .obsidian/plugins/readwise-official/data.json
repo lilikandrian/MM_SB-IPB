@@ -6,6 +6,12 @@
   "isSyncing": false,
   "lastSyncFailed": false,
   "lastSavedStatusID": 6274240,
+<<<<<<<+origin/main
+<<<<<<<+Stashed changes
+<<<<<<< Updated upstream
+  "lastSavedStatusID": 6268572,
+=======
+  "lastSavedStatusID": 6268721,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
