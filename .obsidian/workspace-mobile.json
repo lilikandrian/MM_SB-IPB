@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8907504432d92e77",
+        "id": "91190dd5bd159d7a",
         "type": "tabs",
         "children": [
           {
-            "id": "a6a8b374894176c1",
+            "id": "515549609887f163",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "📕 Terminologi/Cournot.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "📕 Terminologi/Cournot.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "📕 Terminologi/Cournot.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +114,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "📕 Terminologi/Cournot.md"
+          }
         }
       },
       {
@@ -129,15 +138,17 @@
     ],
     "currentTab": 4
   },
-  "active": "b9d39c9e4d475d81",
+  "active": "515549609887f163",
   "lastOpenFiles": [
-    "1. Smester I/Test.md",
-    "2. Smester II/1. EMA/EKONOMI MANAJERIAL.md",
-    "Terminologi/Buget Lainnya.md",
-    "2. Smester II/1. EMA/Lecture/2022-11-27.md",
-    "2. Smester II/1. EMA/2022-11-26 EMA.md",
-    "Obsidian/Plugin.md",
-    "Attachment/SMDB KP1 SBI53B.pdf",
-    "Big Data/Note.md"
+    "📕 Terminologi/Oligopoly.md",
+    "📕 Terminologi/Cournot.md",
+    "📕 Terminologi/Monopolistic competition.md",
+    "📕 Terminologi/Imperfect Competition.md",
+    "📕 Terminologi/Ilmu Ekonomi adalah.md",
+    "📕 Terminologi/the challenge for firms in imperfect competition.md",
+    "📕 Terminologi/Competing in imperfectly competitive markets.md",
+    "📕 Terminologi/Transisi Ekonomi.md",
+    "📕 Terminologi/Big Data.md",
+    "📕 Terminologi/Barang Substitusi.md"
   ]
 }

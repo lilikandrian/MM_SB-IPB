@@ -1,0 +1,2 @@
+#ekonomi #EkonomiManajerial 
+

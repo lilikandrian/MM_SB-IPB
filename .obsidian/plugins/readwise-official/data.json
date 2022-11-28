@@ -1,15 +1,11 @@
 {
-  "token": "r9Cs0vlIjSwzLGuJBOfAj8vEWwsyA9MA9pwDSOJ4beqJbbzgXP",
+  "token": "",
   "readwiseDir": "Readwise",
   "frequency": "0",
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-<<<<<<< Updated upstream
-  "lastSavedStatusID": 6268572,
-=======
-  "lastSavedStatusID": 6268721,
->>>>>>> Stashed changes
+  "lastSavedStatusID": 0,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],

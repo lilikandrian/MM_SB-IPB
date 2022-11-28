@@ -1,1 +1,3 @@
-date: {{date}}{{time}}
+# Judul
+{{date:YYYY-MM-DD}}
+
