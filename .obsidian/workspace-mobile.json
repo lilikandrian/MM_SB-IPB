@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📕 Terminologi/Cournot.md",
+                "file": "📕 Terminologi/Regulasi Pemerintah.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "📕 Terminologi/Cournot.md",
+            "file": "📕 Terminologi/Regulasi Pemerintah.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "📕 Terminologi/Cournot.md",
+            "file": "📕 Terminologi/Regulasi Pemerintah.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "📕 Terminologi/Cournot.md"
+            "file": "📕 Terminologi/Regulasi Pemerintah.md"
           }
         }
       },
@@ -138,17 +138,17 @@
     ],
     "currentTab": 4
   },
-  "active": "515549609887f163",
+  "active": "b9d39c9e4d475d81",
   "lastOpenFiles": [
-    "📕 Terminologi/Oligopoly.md",
+    "📂 2. Smester II/📙 1. EMA/EKONOMI MANAJERIAL 13 -14.md",
+    "📕 Terminologi/Regulasi Pemerintah.md",
+    "📕 Terminologi/Konsep kekayaan intelektual.md",
+    "📂 2. Smester II/📙 1. EMA/EKONOMI MANAJERIAL 3-4.md",
+    "📕 Terminologi/Pasar Sempurna.md",
     "📕 Terminologi/Cournot.md",
+    "📕 Terminologi/Oligopoly.md",
     "📕 Terminologi/Monopolistic competition.md",
     "📕 Terminologi/Imperfect Competition.md",
-    "📕 Terminologi/Ilmu Ekonomi adalah.md",
-    "📕 Terminologi/the challenge for firms in imperfect competition.md",
-    "📕 Terminologi/Competing in imperfectly competitive markets.md",
-    "📕 Terminologi/Transisi Ekonomi.md",
-    "📕 Terminologi/Big Data.md",
-    "📕 Terminologi/Barang Substitusi.md"
+    "📕 Terminologi/Ilmu Ekonomi adalah.md"
   ]
 }
