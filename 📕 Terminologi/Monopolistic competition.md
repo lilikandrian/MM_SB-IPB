@@ -1,5 +1,8 @@
 ## Monopolistic competition
 #ekonomi #EkonomiManajerial 
+
+adalah pasar yang berada diantara [[Pasar Sempurna]], [[Pasar Monopoli]], dan [[Oligopoly]] struktur pasar.
+
 Karakteristik Persaingan monopolistik: 
 * banyak perusahaan
 * entri yang relatif mudah
