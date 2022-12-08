@@ -1,23 +1,18 @@
 {
   "main": {
-    "id": "35f5d30d50826d73",
+    "id": "5b0d450844533619",
     "type": "split",
     "children": [
       {
-        "id": "91190dd5bd159d7a",
+        "id": "bf43236bac17eed0",
         "type": "tabs",
         "children": [
           {
-            "id": "515549609887f163",
+            "id": "3dbac7bab8e28e5e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📕 Terminologi/Data Science (DS).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -26,11 +21,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "552ba1024dc8890b",
+    "id": "f8bc7070577eee8e",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "b9d39c9e4d475d81",
+        "id": "1ddbb5242595c080",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -40,7 +35,7 @@
         }
       },
       {
-        "id": "07e8505bb48264af",
+        "id": "79c1e4d53b7925d4",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -55,7 +50,7 @@
         }
       },
       {
-        "id": "1838cf0176140f46",
+        "id": "a443e02201eb1c10",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -66,7 +61,7 @@
         }
       },
       {
-        "id": "e113d1f3f74be4d6",
+        "id": "2b1b9cfbfe803db1",
         "type": "leaf",
         "state": {
           "type": "starred",
@@ -77,16 +72,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "981520c9886264b8",
+    "id": "7099a18d43470f38",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "55c828fdd21dc64a",
+        "id": "5cc983fde9673067",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "📕 Terminologi/Data Science (DS).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -98,57 +92,27 @@
         }
       },
       {
-        "id": "2c1d63b3c28f4e5e",
+        "id": "e507c5e6c35d0ca3",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "📕 Terminologi/Data Science (DS).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "57c9e86238f5488e",
+        "id": "815cd062c13b4bec",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "📕 Terminologi/Data Science (DS).md"
-          }
-        }
-      },
-      {
-        "id": "acf37d0b08a641a6",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "4e78b8bb7a8b3162",
-        "type": "leaf",
-        "state": {
-          "type": "FANTASY_CALENDAR",
           "state": {}
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 0
   },
-  "active": "515549609887f163",
-  "lastOpenFiles": [
-    "📕 Terminologi/Blockchain.md",
-    "📕 Terminologi/Internet of Things (IoT).md",
-    "📕 Terminologi/Artificial Intelligence (AI).md",
-    "📕 Terminologi/Big Data.md",
-    "📕 Terminologi/Digitalisasi Circular Economy.md",
-    "📕 Terminologi/Circular Economy.md",
-    "📕 Terminologi/Regulasi Pemerintah.md",
-    "📂 2. Smester II/📙 1. EMA/EKONOMI MANAJERIAL 13 -14.md",
-    "📕 Terminologi/Konsep kekayaan intelektual.md",
-    "📂 2. Smester II/📙 1. EMA/EKONOMI MANAJERIAL 3-4.md"
-  ]
+  "active": "3dbac7bab8e28e5e",
+  "lastOpenFiles": []
 }

@@ -11,12 +11,9 @@
   "templates",
   "note-composer",
   "command-palette",
-  "slash-command",
   "editor-status",
   "starred",
-  "markdown-importer",
-  "zk-prefixer",
   "outline",
-  "slides",
-  "audio-recorder"
+  "word-count",
+  "file-recovery"
 ]
