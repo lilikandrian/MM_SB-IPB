@@ -59,12 +59,8 @@
             "id": "3c950ac12c2d9bed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📕 Terminologi/Diskriminasi Harga Derajat Kedua.md",
-                "mode": "source",
-                "backlinks": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -97,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "derajat",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📕 Terminologi/Diskriminasi Harga Derajat Kedua.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📕 Terminologi/Diskriminasi Harga Derajat Kedua.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "📕 Terminologi/Diskriminasi Harga Derajat Kedua.md"
-              }
+              "state": {}
             }
           },
           {
@@ -203,15 +194,15 @@
   },
   "active": "3c950ac12c2d9bed",
   "lastOpenFiles": [
-    "📕 Terminologi/Diskriminasi Harga Derajat Ketiga.md",
-    "📕 Terminologi/Pasar Sempurna.md",
-    "📂 2. Smester II/📙 1. EMA/Ekonomi Manajerial 14 - 15.md",
     "📕 Terminologi/Pasar Monopolistic.md",
-    "📕 Terminologi/DISKRIMINASI HARGA.md",
-    "📕 Terminologi/Cartel.md",
-    "📕 Terminologi/Monopolistic competition.md",
-    "📕 Terminologi/DISKRIMINASI HARGA DERAJAT PERTAMA.md",
+    "<% TP.FILE.TITLE%>.md",
+    "Screenshot 2022-11-29 at 00.31.35.png",
+    "Screenshot 2022-11-29 at 00.21.54.png",
+    "Screenshot 2022-11-29 at 00.21.20.png",
+    "Pasted image 20221128201640.jpg",
+    "FB374502-78D2-4829-A36E-B7DF08B51F3D.jpeg",
     "📕 Terminologi/Diskriminasi Harga Derajat Kedua.md",
-    "📕 Terminologi/Jenis Energi di Indonesia.md"
+    "📕 Terminologi/Diskriminasi Harga Derajat Ketiga.md",
+    "📕 Terminologi/Pasar Sempurna.md"
   ]
 }
