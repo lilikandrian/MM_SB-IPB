@@ -8,137 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8bf9a7de4df4faae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📕 Terminologi/Cartel.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e8cfffdef9c0074",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📂 2. Smester II/📖 Tugas/Latihan.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f686eb5e74d718c5",
+            "id": "6db5c97b054228ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "📕 Terminologi/Pasar Monopolistic.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
+                "backlinks": true
               }
             }
           },
           {
-            "id": "7b19c5b5ebe71f44",
+            "id": "c976528fc70d2e2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📕 Terminologi/Stackleberg.md",
+                "file": "📕 Terminologi/Pasar Sempurna.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
+                "backlinks": true
               }
             }
           },
           {
-            "id": "16ef75b71d4c0b56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📂 2. Smester II/📖 Tugas/Latihan Stackleberg.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b93d2a61b84fdc74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📕 Terminologi/DISKRIMINASI HARGA.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0e2906a3225aa50",
+            "id": "72ce7d32764b1f7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "📕 Terminologi/DISKRIMINASI HARGA DERAJAT PERTAMA.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
+                "backlinks": true
               }
             }
           },
           {
-            "id": "c2c353c5472158d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📕 Terminologi/Diskriminasi Harga Derajat Kedua.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c2043ec49ce95e9",
+            "id": "7b196ed1887aa02a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "📕 Terminologi/Diskriminasi Harga Derajat Ketiga.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
+                "backlinks": true
               }
             }
           },
           {
-            "id": "6db5c97b054228ab",
+            "id": "3c950ac12c2d9bed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📕 Terminologi/Pasar Poligopolitik.md",
+                "file": "📕 Terminologi/Diskriminasi Harga Derajat Kedua.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
+                "backlinks": true
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -167,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "derajat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -204,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📕 Terminologi/Pasar Poligopolitik.md",
+                "file": "📕 Terminologi/Diskriminasi Harga Derajat Kedua.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📕 Terminologi/Pasar Poligopolitik.md",
+                "file": "📕 Terminologi/Diskriminasi Harga Derajat Kedua.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📕 Terminologi/Pasar Poligopolitik.md"
+                "file": "📕 Terminologi/Diskriminasi Harga Derajat Kedua.md"
               }
             }
           },
@@ -264,25 +195,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 268.5
   },
-  "active": "6db5c97b054228ab",
+  "active": "3c950ac12c2d9bed",
   "lastOpenFiles": [
-    "📕 Terminologi/Pasar Oligopolistic.md",
     "📕 Terminologi/Diskriminasi Harga Derajat Ketiga.md",
-    "📕 Terminologi/Diskriminasi Harga Derajat Kedua.md",
-    "📕 Terminologi/DISKRIMINASI HARGA DERAJAT PERTAMA.md",
+    "📕 Terminologi/Pasar Sempurna.md",
+    "📂 2. Smester II/📙 1. EMA/Ekonomi Manajerial 14 - 15.md",
     "📕 Terminologi/Pasar Monopolistic.md",
     "📕 Terminologi/DISKRIMINASI HARGA.md",
     "📕 Terminologi/Cartel.md",
-    "📕 Terminologi/Stackleberg.md",
-    "📂 2. Smester II/📙 1. EMA/Ekonomi Manajerial 14 - 15.md",
-    "📕 Terminologi/Pasar Poligopolitik.md"
+    "📕 Terminologi/Monopolistic competition.md",
+    "📕 Terminologi/DISKRIMINASI HARGA DERAJAT PERTAMA.md",
+    "📕 Terminologi/Diskriminasi Harga Derajat Kedua.md",
+    "📕 Terminologi/Jenis Energi di Indonesia.md"
   ]
 }

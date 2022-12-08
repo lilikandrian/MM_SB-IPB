@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "SETUP/Attachment",
+  "attachmentFolderPath": "🛠️ SETUP/Attachment",
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "terminologi",
@@ -27,5 +27,9 @@
     "editor:configure-toolbar",
     "editor:open-link-in-new-window"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "vimMode": false,
+  "legacyEditor": true
 }
