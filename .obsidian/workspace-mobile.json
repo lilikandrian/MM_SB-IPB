@@ -69,7 +69,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "7099a18d43470f38",
@@ -113,6 +114,8 @@
     ],
     "currentTab": 0
   },
-  "active": "3dbac7bab8e28e5e",
-  "lastOpenFiles": []
+  "active": "1ddbb5242595c080",
+  "lastOpenFiles": [
+    "📕 Terminologi/2022-11-29.md"
+  ]
 }
