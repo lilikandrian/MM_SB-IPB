@@ -4,15 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "bf43236bac17eed0",
+        "id": "85619592840ea029",
         "type": "tabs",
         "children": [
           {
-            "id": "3dbac7bab8e28e5e",
+            "id": "99e2d76d45cab585",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "📕 Terminologi/Metode penelitian komparatif.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0742afb2581b0e81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📕 Terminologi/Kualitatif.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -69,8 +87,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "7099a18d43470f38",
@@ -82,6 +99,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "📕 Terminologi/Metode penelitian komparatif.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -98,6 +116,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "📕 Terminologi/Metode penelitian komparatif.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -108,14 +127,21 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "📕 Terminologi/Metode penelitian komparatif.md"
+          }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "1ddbb5242595c080",
+  "active": "99e2d76d45cab585",
   "lastOpenFiles": [
+    "📕 Terminologi/Kualitatif.md",
+    "📕 Terminologi/Metode penelitian komparatif.md",
+    "📕 Terminologi/MapReduce.md",
+    "<% TP.FILE.TITLE%>.md",
+    "📕 Terminologi/Barang Elastis.md",
     "📕 Terminologi/2022-11-29.md"
   ]
 }
