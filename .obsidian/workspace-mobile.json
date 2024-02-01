@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📕 Terminologi/Metode penelitian komparatif.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0742afb2581b0e81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📕 Terminologi/Kualitatif.md",
+                "file": "📂 1. Smester I/Test.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,9 +72,18 @@
           "type": "starred",
           "state": {}
         }
+      },
+      {
+        "id": "ea7d59d9cbd87ab7",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "7099a18d43470f38",
@@ -99,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "📕 Terminologi/Metode penelitian komparatif.md",
+            "file": "📂 1. Smester I/Test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -116,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "📕 Terminologi/Metode penelitian komparatif.md",
+            "file": "📂 1. Smester I/Test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -128,17 +124,31 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "📕 Terminologi/Metode penelitian komparatif.md"
+            "file": "📂 1. Smester I/Test.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
   "active": "99e2d76d45cab585",
   "lastOpenFiles": [
-    "📕 Terminologi/Kualitatif.md",
+    "💻 Tesis/2022-11-26.md",
+    "📕 Terminologi/Tinjauan pustaka.md",
     "📕 Terminologi/Metode penelitian komparatif.md",
+    "📕 Terminologi/2022-12-18.md",
+    "🛠️ SETUP/Attachment/2022-11-26.md",
+    "📕 Terminologi/Kualitatif.md",
     "📕 Terminologi/MapReduce.md",
     "<% TP.FILE.TITLE%>.md",
     "📕 Terminologi/Barang Elastis.md",
